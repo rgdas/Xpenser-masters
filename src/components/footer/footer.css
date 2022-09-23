@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 6px;
+}
+.footers {
+  font-family: "Trattatello, fantasy";
+  color:darkred;
+  font-style: italic;
+  font-variant: inherit;
+  font-weight: 300;
+  font-size: large;
+  margin-left:-355px;
+  animation: slidein 7s infinite;
+  
+}
